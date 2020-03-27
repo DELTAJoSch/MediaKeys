@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MediaKeysTest/1.0.0": {
+        "dependencies": {
+          "MediaKeys": "1.0.0"
+        },
+        "runtime": {
+          "MediaKeysTest.dll": {}
+        }
+      },
+      "MediaKeys/1.0.0": {
+        "runtime": {
+          "MediaKeys.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MediaKeysTest/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MediaKeys/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

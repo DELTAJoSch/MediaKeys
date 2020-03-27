@@ -1,0 +1,8 @@
+H:\Dokumente\C# Libraries\MediaKeys\MediaKeys\bin\Debug\netcoreapp3.1\MediaKeys.deps.json
+H:\Dokumente\C# Libraries\MediaKeys\MediaKeys\bin\Debug\netcoreapp3.1\MediaKeys.dll
+H:\Dokumente\C# Libraries\MediaKeys\MediaKeys\bin\Debug\netcoreapp3.1\MediaKeys.pdb
+H:\Dokumente\C# Libraries\MediaKeys\MediaKeys\obj\Debug\netcoreapp3.1\MediaKeys.csprojAssemblyReference.cache
+H:\Dokumente\C# Libraries\MediaKeys\MediaKeys\obj\Debug\netcoreapp3.1\MediaKeys.AssemblyInfoInputs.cache
+H:\Dokumente\C# Libraries\MediaKeys\MediaKeys\obj\Debug\netcoreapp3.1\MediaKeys.AssemblyInfo.cs
+H:\Dokumente\C# Libraries\MediaKeys\MediaKeys\obj\Debug\netcoreapp3.1\MediaKeys.dll
+H:\Dokumente\C# Libraries\MediaKeys\MediaKeys\obj\Debug\netcoreapp3.1\MediaKeys.pdb
